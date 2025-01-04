@@ -1,0 +1,24 @@
+{
+  "name": "constellations",
+  "version": "1.0.0",
+  "description": "card star game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mythius/constellations.git"
+  },
+  "author": "Matthias Southwick & Lauren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mythius/constellations/issues"
+  },
+  "homepage": "https://github.com/mythius/constellations#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
